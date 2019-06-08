@@ -3,6 +3,11 @@ title: Mysql锁和事物
 date: 2019-05-27 11:44:16
 tags: Mysql
 ---
+# 索引
+
+这篇很详细：https://tech.meituan.com/2014/06/30/mysql-index.html
+
+# Mysql锁和事物
 
 ## 什么场景下用表锁
 
