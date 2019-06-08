@@ -1,4 +1,5 @@
 
+？docker 核心，虚拟化，namespace技术
 
 #### Dockerfile组成
 
