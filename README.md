@@ -1,12 +1,5 @@
 
 
-## My Interview of Python
+## Interview of Python
 
-最近面试遇到的一些面试题，坐标：成都
-
-
-
-*更新中
-
->刚开始整理，后续会添加目录，将文档整理归类
-
+坐标：成都
